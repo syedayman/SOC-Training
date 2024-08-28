@@ -12,18 +12,18 @@ https://academy.tcm-sec.com/p/security-operations-soc-101
 ## Practical experience with labs on
 - Email headers and content analysis, static and dynamic MalDoc analysis
 - Network packet capture and flow analysis, IDS/IPS configurations
-- Windows and Linux endpoint analysis, deploying EDR agents
+- Analyzing Windows and Linux endpoints and core processes, monitoring event logs, and deploying EDR agents
 - SIEM and log management, Splunk BTOS (Boss of the SOC) Challenges
 - Threat intelligence using VirusTotal, Cisco Talos and YARA rules
 - Windows registry forensic analysis
-- MITRE ATT&CK and other CTI databases
+- MITRE ATT&CK and other cyber defence frameworks
 
 ## Tools and utilities
 - Phishing: PhishTool
 - Networking: tcpdump, Wireshark, Snort
 - Endpoint Security: LimaCharlie EDR, Windows sysinternals (Sysmon, AutoRuns, Process Explorer, TCPview)
 - SIEM: Splunk
-- Threat Intel: MITRE ATT&CK, Cyber Kill Chain, MISPM, YARA rules
+- Threat Intel: MITRE ATT&CK, Cyber Kill Chain, MISP, YARA rules
 - Forensics: FTK Imager, Registry Explorer
 
 ## Certificate
