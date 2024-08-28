@@ -1,4 +1,5 @@
 # Security-Operations-SOC-101
+https://academy.tcm-sec.com/p/security-operations-soc-101
 
 ## Course Objectives
 - Learn to identify and analyse phishing attacks
